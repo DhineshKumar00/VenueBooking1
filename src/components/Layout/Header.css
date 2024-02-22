@@ -1,0 +1,56 @@
+.navigation-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+.v-navbar{
+    font-size:30px;
+    font-weight: bold;
+    text-shadow: 20px;
+    color: black;
+}
+.color-b{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    color: lawngreen;
+
+}
+.navtxt{
+    font-size: 30px;
+    font-style:inherit;
+    font-weight: bolder ;
+}
+.navigation-menu li {
+    margin: 0px 20px;
+}
+
+.navigation-menu li a {
+    text-decoration: none;
+    color: black;
+}
+.active{
+    color:black !important;
+    font-weight: bold !important;
+}
+
+.mobile-navigation {
+    list-style: none;
+}
+
+.mobile-navigation li {
+    margin-top: 20px;
+}
+
+.mobile-navigation li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+}
+.nav{
+    font-size: medium;
+    font-weight: 200;
+    font-style: inherit;
+}
